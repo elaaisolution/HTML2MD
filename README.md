@@ -1,9 +1,9 @@
 # HTML2MD
 To convert Html files to Github Readme File
 
-Run python3 sample.py
+### Run python3 sample.py
 
-Output Readme File
+# Output Readme File
 
 ms word - html to .doc converter in Python? - Stack Overflow
 
