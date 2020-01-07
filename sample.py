@@ -3,7 +3,7 @@ Created on 02-Jan-2020
 
 @author: elango
 '''
-import html2text1
+import html2text
 with open("sample.html") as text_file:
     contents = text_file.read()
 #print(contents)
