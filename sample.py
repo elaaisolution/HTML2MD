@@ -7,7 +7,7 @@ import html2text1
 with open("sample.html") as text_file:
     contents = text_file.read()
 #print(contents)
-openFile = open("aa.txt", "a")
+openFile = open("sample.txt", "a")
 print(html2text1.html2text(contents))
 appendFile = openFile.write(html2text1.html2text(contents))
 openFile.close()
